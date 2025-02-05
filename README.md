@@ -32,6 +32,10 @@ I'm Mithu. A Skilled React Full Stack Developer. My solid background in both fro
 ---
 ###
 
+<img src="https://raw.githubusercontent.com/iftekharalammithu/iftekharalammithu/output/snake.svg" alt="Snake animation" />
+
+###
+
 
 
 
